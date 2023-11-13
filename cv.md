@@ -16,6 +16,7 @@ Currently I'm working as a QA Engineer. But it's interesting for me to try somet
 - Java Basics
 - JavaScript Basics
 - Intelij IDEA
+- Figma
 
 ## Code Examples
 ***
