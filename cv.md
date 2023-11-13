@@ -27,9 +27,13 @@ multiply = function (a, b) {
 
 ## Education
 ***
+**Institute of Information Technologies Belarusian State University of Informatics and Radioelectronics**
+- Information Systems 
+- 2017
+
 **Belarusian State University**
-Records management  
-2013
+- Records management  
+- 2013
 
 ## Languages
 ***
